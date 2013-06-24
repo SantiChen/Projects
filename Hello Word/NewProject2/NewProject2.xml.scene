@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<SceneProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>NewProject2</Name>
+  <ProjectDir>E:\Projects\Mobile Devlop\Hello Word\NewProject2</ProjectDir>
+  <SceneJson>NewProject2.json</SceneJson>
+  <Resources>E:\Projects\Mobile Devlop\Hello Word\NewProject2\Resources</Resources>
+  <CanvasSize>
+    <Width>480</Width>
+    <Height>320</Height>
+  </CanvasSize>
+  <JSFileList />
+  <DefaultUI_JSList>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/Math.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/UIElement.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/Widget.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/UISprite.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/UIScale9Sprite.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/UIPrimitive.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/UIText.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/UITextArea.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/UITextField.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/UILabelAtlas.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/Button.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/TextButton.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/Label.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/TextArea.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/LoadingBar.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/CheckBox.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/TextField.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/UIInputManager.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/BaseAction.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/ActionMoveTo.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/ActionRotateTo.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/ActionScaleTo.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/ActionSequence.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/ActionSpawn.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/ActionManager.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/ContainerWidget.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/Panel.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/WrapContentPanel.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/ScrollView.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/ListView.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/Slider.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/ImageView.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/LabelAtlas.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/RootWidget.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/UIScene.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/UISystem/UISystem.js</string>
+    <string>C:/Program Files (x86)/CocoStudio/JS/ForEditor/UIEditorHelper.js</string>
+  </DefaultUI_JSList>
+</SceneProject>

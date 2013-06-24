@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<AnimationProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>NewProject</Name>
+  <ProjectDir>E:\Projects\Mobile Devlop\Hello Word\NewProject</ProjectDir>
+  <SceneJson>NewProject.json</SceneJson>
+  <Resources>E:\Projects\Mobile Devlop\Hello Word\NewProject\Resources</Resources>
+  <CanvasSize>
+    <Width>0</Width>
+    <Height>0</Height>
+  </CanvasSize>
+  <bBatchImage>false</bBatchImage>
+</AnimationProject>
